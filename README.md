@@ -1,13 +1,11 @@
-## AI-Assignment
+# AI-Assignment
 
-#Add a README.md explaining what the notebook is trying to analyze and how you used AI to help.
+Add a README.md explaining what the notebook is trying to analyze and how you used AI to help.
 
   The notebook is analyzing which model is better suited to detect fraud, whether it be with chip transactions, repeated customers, or other factors, so that credit card fraud can be predicted and prevented in the future. The AI was able to process and compute the models using pandas, seaborn, and ultimately KNN and other approaches quickly, reducing the time required for human coding and minimizing the possibility of mistakes. The AI helps assist humans, ultimately making the predictions more helpful and beneficial.
 
-5. README.md: Have a 2-paragraph section in here where you reflect on AI assistance with
-this assignment
-a. What concrete benefits did you see by utilizing AI to help you make the notebook?
-b. What dangers do you see for someone using AI to make this notebook without
-learning data science properly? Give concrete examples.
-c. Give examples where you needed to verify the AI output for correctness. How did
-you know to verify those outputs?
+Have a 2-paragraph section in here where you reflect on AI assistance with this assignment.
+
+  There are a tremendous number of benefits I noticed while using AI. The speed and accuracy with which AI could produce code were incredible. There were many times I gave small descriptions of what I needed, and AI was able to provide what I needed most of the time, without me editing my question. I also found it extremely beneficial that AI would use previously asked questions and answers to respond to the current question. I found this helpful when using seaborn, because I would only need to slightly alter a question from a previous one to receive the answer I needed, rather than spelling out the question in its entirety. Using AI made writing the code extremely fast, while also explaining what it was doing along the way.
+  Although there were many benefits, I also saw a few dangers arise from using AI. One danger I could see is over-reliance on AI. Someone could get into the habit of solely relying on AI to accomplish the task at hand, and lose out on the benefits of solving problems independently and the growth that comes with that. Another significant danger is using AI without understanding what it is doing. It is easy to see how giving a generic question to AI and receiving exactly what is needed could lead to someone never truly believing they need to understand it because AI will get it right. This could quickly lead to a problem where, if AI were to no longer exist (as unlikely as that is), it would be extremely detrimental to many in their fields who solely relied on AI.
+  I only needed to verify AI on a few outputs. Earlier on, when AI was still gathering information that I needed, it would give back only a generic scaffolding for code, and I would need to make sure that it aligned with the information I had. I was able to check with the previous code to verify its alignment, but as I continued asking questions, AI was able to understand what I was looking for and responded with more accurate answers.
